@@ -1,0 +1,23 @@
+{
+  "name": "generate-unique-pin",
+  "version": "1.0.0",
+  "description": "This is to generate unique pin of desired digit length.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grvrjt/generate-unique-pin.git"
+  },
+  "keywords": [
+    "unique-pin",
+    "pin"
+  ],
+  "author": "GAURAV RAJPUT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grvrjt/generate-unique-pin/issues"
+  },
+  "homepage": "https://github.com/grvrjt/generate-unique-pin#readme"
+}
